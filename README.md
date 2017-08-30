@@ -1,5 +1,5 @@
 # JavaScript Reduce
-
+#
 ## Overview
 
 In this lesson, we'll look at how to reduce a list to a single value.
